@@ -64,6 +64,14 @@
     {
       "class": "rectangle",
       "id": "BB48B1B9-54EB-4B10-A51A-F58512FB6B5D"
+    },
+    {
+      "class": "rectangle",
+      "id": "14BE5F2C-6034-4A4B-ABED-1D57CE930B71"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5469E69-40C4-4DD6-984E-2C1B4F159058"
     }
   ],
   "name": "画板",

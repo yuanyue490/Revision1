@@ -38,5 +38,10 @@
   },
   "pages": [
     "Page 1"
-  ]
+  ],
+  "userInfo": {
+    "com.plant.plantplugin": {
+      "plant_doc_id": "DCE7ED6E-8857-40D6-AE96-7D03E6472079"
+    }
+  }
 }
